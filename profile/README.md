@@ -10,6 +10,27 @@ HOStudio123|Group Leader|[Github](https://github.com/HOStudio123)
 chun-awa|Community Administrator|[Github](https://github.com/chun-awa)
 星烬|Community Administrator|[Github](https://github.com/206918)
 
+## Introduction to the HOStudio Development Team
+
+### 1 Requirements to Join
+- Proficiency in at least one programming language
+- Knowledge of at least one network technology
+- Ownership of a GitHub account
+
+### 2 Team Rules
+1. Do not engage in activities that harm this programming project
+2. Do not engage in activities that harm the network
+3. Do not attack other legitimate projects
+4. Do not harm national, collective interests, or the legal rights of other citizens
+5. Do not promote other programming projects unless approved by the project executives
+
+### 3 Project Development
+Current Project Name: `HOPYBOX Python Project`
+
+**Project Branch Development:**
+- The main framework is primarily written by the author, but contributions of usable packages or modules are welcomed
+- Contributions to project branch packages are subject to approval by the project executives
+
 ## Projects
 - [HOPYBOX](https://github.com/HOStudio123/HOPYBOX)
 
