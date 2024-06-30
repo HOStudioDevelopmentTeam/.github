@@ -1,6 +1,15 @@
-# Welcome to HOStudio Development Team ! 👋
-Welcome to join our HOStudio Development Team, there are many elites, join us and more people will help you!
+# HOStudio Development Team
+## Hi there 👋
+We are HOStudio Development Team, a studio created in 2022, Now has nearly ~20 members, HOPYBOX and dozens of open source projects, Committed to building an open, free and active community, ~~The maker of high-end talent and the dreamer of the 21st and even 22nd century Internet of Everything~~, we are looking forward to you to join !
 
-欢迎加入我们的HOStudio开发团队总群，这里有许多的大佬精英，加入可以有更多人帮助你！
+## Main Developers
+**Name**|**Role**|**Links**|
+--------|--------|---------|
+HOStudio123|Group Leader|[Github](https://github.com/HOStudio123)
+chun-awa|Community Administrator|[Github](https://github.com/chun-awa)
 
-## Join requirement 🛰
+## Projects
+- [HOPYBOX](https://github.com/HOStudio123/HOPYBOX)
+
+## Suborganizations
+- [HOPYBOX](https://github.com/HOPYBOX)
