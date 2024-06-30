@@ -18,7 +18,7 @@ chun-awa|Community Administrator|[Github](https://github.com/chun-awa)
 - Ownership of a GitHub account
 
 ### 2 Team Rules
-1. Do not engage in activities that harm this programming project
+1. Do not engage in activities that harm the organisation
 2. Do not engage in activities that harm the network
 3. Do not attack other legitimate projects
 4. Do not harm national, collective interests, or the legal rights of other citizens
