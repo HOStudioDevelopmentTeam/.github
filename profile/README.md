@@ -17,7 +17,7 @@ HOPYBOX|Community Member|[Github](https://github.com/HOPYBOX)
 ## The Info of the HOStudio Development Team 📑
 
 ### 1 Requirements to Join
-- Proficiency in at least one programming language
+- Proficiency of at least one programming language
 - Knowledge of at least one network technology
 - Ownership of a GitHub account
 - Must be introduced by a community member
