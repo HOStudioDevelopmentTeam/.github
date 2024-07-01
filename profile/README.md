@@ -10,7 +10,7 @@ Nous sommes l'équipe de développement HOStudio, un studio créé en 2022, qui 
 --------|--------|---------|
 HOStudio123|Group Leader|[Github](https://github.com/HOStudio123)
 chun-awa|Community Administrator|[Github](https://github.com/chun-awa)
-星烬|Community Administrator|[Github](https://github.com/206918)
+ywe3|Community Administrator|[Github](https://github.com/ywe3)
 Lone-Air|Community Member|[Github](https://github.com/Lone-Air)
 HOPYBOX|Community Member|[Github](https://github.com/HOPYBOX)
 
