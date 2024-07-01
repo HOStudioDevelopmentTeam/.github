@@ -37,6 +37,6 @@ None<br>
 None<br>
 
 ## Contact us ☎️
-**QQ Group**`671632461`<br>
-**QQ Channel**`x1iqd16492`<br>
+**QQ Group** `671632461`<br>
+**QQ Channel** `x1iqd16492`<br>
 **Discord**`
