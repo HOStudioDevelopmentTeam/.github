@@ -39,4 +39,4 @@ None<br>
 ## Contact us ☎️
 **QQ Group** `671632461`<br>
 **QQ Channel** `x1iqd16492`<br>
-**Discord**`
+**Discord** `[https://discord.com/invite/j4ReFy5d](https://discord.com/invite/j4ReFy5d)`
