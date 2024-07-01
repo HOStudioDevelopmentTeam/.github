@@ -27,7 +27,7 @@ chun-awa|Community Administrator|[Github](https://github.com/chun-awa)
 
 ### 3 Project Development
 **1 Project Under Development**<br>
-`HOPYBOX` (HOStudio123) <br>
+`HDT-AI`
 **2 Project Under Planning**<br>
 None<br>
 **3 Project Under Archived**<br>
