@@ -5,7 +5,7 @@
 Мы — команда разработчиков HOStudio, созданная в 2022 году, и в настоящее время у нас около 20 участников и десятки проектов с открытым исходным кодом для открытого, свободного и активного сообщества. Создатели и мечтатели высококлассных талантов Мы с нетерпением ждем вас !<br><br>
 Nous sommes l'équipe de développement HOStudio, un studio créé en 2022, qui compte aujourd'hui près de 20 membres et des dizaines de projets open source, dédié à la création d'une communauté ouverte, libre et active de créateurs de talents haut de gamme et de rêveurs. Nous nous réjouissons de vous accueillir !**
 
-## Main Developers
+## Main Developers 👥
 **Name**|**Role**|**Links**|
 --------|--------|---------|
 HOStudio123|Group Leader|[Github](https://github.com/HOStudio123)
@@ -14,7 +14,7 @@ chun-awa|Community Administrator|[Github](https://github.com/chun-awa)
 Lone-Air|Community Member|[Github](https://github.com/Lone-Air)
 HOPYBOX|Community Member|[Github](https://github.com/HOPYBOX)
 
-## The Infomation of the HOStudio Development Team
+## The Info of the HOStudio Development Team 📑
 
 ### 1 Requirements to Join
 - Proficiency in at least one programming language
@@ -35,3 +35,8 @@ HOPYBOX|Community Member|[Github](https://github.com/HOPYBOX)
 None<br>
 **3 Project Under Archived**<br>
 None<br>
+
+## Contact us ☎️
+**QQ Group**`671632461`
+**QQ Channel**`x1iqd16492`
+**Discord**`
