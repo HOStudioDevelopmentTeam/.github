@@ -24,9 +24,9 @@ HOPYBOX|Community Member|[Github](https://github.com/HOPYBOX)
 ### 2 Team Rules
 - Do not engage in activities that harm the organisation
 - Do not engage in activities that harm the network
-- Do not attack other legitimate projects
+- Do not attack other legitimate community
 - Do not harm national, collective interests, or the legal rights of other citizens
-- Do not promote other programming projects unless approved by the project executives
+- Do not promote other programming projects unless approved by the community administrator
 
 ### 3 Project Development
 **1 Project Under Development**<br>
