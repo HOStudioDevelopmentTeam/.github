@@ -22,11 +22,11 @@ HOPYBOX|Community Member|[Github](https://github.com/HOPYBOX)
 - Ownership of a GitHub account
 
 ### 2 Team Rules
-1. Do not engage in activities that harm the organisation
-2. Do not engage in activities that harm the network
-3. Do not attack other legitimate projects
-4. Do not harm national, collective interests, or the legal rights of other citizens
-5. Do not promote other programming projects unless approved by the project executives
+- Do not engage in activities that harm the organisation
+- Do not engage in activities that harm the network
+- Do not attack other legitimate projects
+- Do not harm national, collective interests, or the legal rights of other citizens
+- Do not promote other programming projects unless approved by the project executives
 
 ### 3 Project Development
 **1 Project Under Development**<br>
