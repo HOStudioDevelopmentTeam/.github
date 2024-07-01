@@ -25,14 +25,5 @@ chun-awa|Community Administrator|[Github](https://github.com/chun-awa)
 5. Do not promote other programming projects unless approved by the project executives
 
 ### 3 Project Development
-Current Project Name: `HOPYBOX Python Project`
-
-**Project Branch Development:**
-- The main framework is primarily written by the author, but contributions of usable packages or modules are welcomed
-- Contributions to project branch packages are subject to approval by the project executives
-
-## Projects
-- [HOPYBOX](https://github.com/HOStudio123/HOPYBOX)
-
-## Suborganizations
-- [HOPYBOX](https://github.com/HOPYBOX)
+**Current Project**
+`HOPYBOX`
