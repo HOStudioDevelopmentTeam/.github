@@ -20,6 +20,7 @@ HOPYBOX|Community Member|[Github](https://github.com/HOPYBOX)
 - Proficiency in at least one programming language
 - Knowledge of at least one network technology
 - Ownership of a GitHub account
+- Must be introduced by a community member
 
 ### 2 Team Rules
 - Do not engage in activities that harm this community
