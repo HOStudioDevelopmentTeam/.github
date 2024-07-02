@@ -5,10 +5,6 @@ We are HOStudio Development Team, created in 2022, Now has nearly 20 members and
 
 我们是HOStudio开发团队，创建于2022年，现在拥有近20名成员和数十个开源项目，致力于打造一个开放、自由、活跃的社区，高端人才的制造者和梦想家21世纪乃至22世纪的万物互联，我们期待您的加入!  
 
-Мы — команда разработчиков HOStudio, созданная в 2022 году, и в настоящее время у нас около 20 участников и десятки проектов с открытым исходным кодом для открытого, свободного и активного сообщества. Создатели и мечтатели высококлассных талантов Мы с нетерпением ждем вас !
-
-Nous sommes l'équipe de développement HOStudio, un studio créé en 2022, qui compte aujourd'hui près de 20 membres et des dizaines de projets open source, dédié à la création d'une communauté ouverte, libre et active de créateurs de talents haut de gamme et de rêveurs. Nous nous réjouissons de vous accueillir !
-
 ## Main Developers 👥
 **Name**|**Role**|**Links**|
 --------|--------|---------|
