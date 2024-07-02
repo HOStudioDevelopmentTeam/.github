@@ -40,5 +40,5 @@ None<br>
 ## Contact us ☎️
 **QQ Group** `671632461`<br>
 **QQ Channel** `x1iqd16492`<br>
-**Discord** [`https://discord.com/invite/j4ReFy5d`](https://discord.com/invite/j4ReFy5d)
+**Discord** [`https://discord.com/invite/j4ReFy5d`](https://discord.com/invite/j4ReFy5d)<br>
 **Website**[`https://hostudiodevelopmentteam.github.io`](https://hostudiodevelopmentteam.github.io)
