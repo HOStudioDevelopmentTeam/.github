@@ -15,8 +15,8 @@ Lone-Air|Community Member|[Github](https://github.com/Lone-Air)
 HOPYBOX|Community Member|[Github](https://github.com/HOPYBOX)
 
 ## Requirements to Join 📋
-- Proficient in at least one programming language
-- Knowledge of at least one network technology
+- Be proficient in at least one programming language
+- Have knowledge of at least one Internet technology
 - Have a Github account
 - Invited by a member
 
