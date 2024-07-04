@@ -47,7 +47,7 @@ None
 ## Contact us 🔗
 **QQ Group**: `671632461`
 
-**QQ Channel**: `x1iqd16492`
+**QQ Channel**: <https://pd.qq.com/s/5ezmv9ors>
 
 **Discord**: <https://discord.com/invite/j4ReFy5d>
 
