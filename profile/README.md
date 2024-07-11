@@ -13,6 +13,7 @@ We are HOStudio Development Team, created in 2022, Now has nearly 20 members and
 [chun-awa](https://github.com/chun-awa)|Community Administrator
 [Lone-Air](https://github.com/Lone-Air)|Community Member
 [HOPYBOX](https://github.com/HOPYBOX)|Community Member
+[Katorly](https://github.com/katorly)|Community Member
 
 ## Requirements to Join 📋
 - Be proficient in at least one programming language
