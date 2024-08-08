@@ -50,6 +50,4 @@ None
 
 **QQ Channel**: <https://pd.qq.com/s/5ezmv9ors>
 
-**Discord**: <https://discord.com/invite/j4ReFy5d>
-
 **Website**: <https://hostudiodevelopmentteam.github.io>
